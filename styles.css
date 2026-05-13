@@ -129,6 +129,7 @@ select, input {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: var(--text);
   gap: 10px;
   width: 100%;
   padding: 10px 16px;
